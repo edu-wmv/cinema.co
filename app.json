@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "cinemaCODE",
+    "name": "cCinemaCo.",
     "slug": "cinemaCODE",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,10 +25,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.eduuu.cinemaCODE"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3501bf75-78a8-4ce6-bd19-a3773b6c004a"
+      }
     }
   }
 }
